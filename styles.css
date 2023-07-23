@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(219, 227, 237) !important;
+}
+
+.add__new__btn__mobile{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 20px 15px;
+    background-color: aliceblue;
+    width: 100%;
+    z-index: 2;
+}
+/* .d-none .d-sm-block .d-md-none --> class added in html */
+/* @media (min-width: 768px){
+    .add__new__btn__mobile{
+        display: none;
+    }
+    
+} */
+
+/* .container-sm{
+    background-color: blue;
+}
+.container-md{
+    background-color: blue;
+}
+.container-lg{
+    background-color: blue;
+}
+.container-xl{
+    background-color: blue;
+}
+.container-xxl{
+    background-color: blue;
+}
+.container-fluid{
+    background-color: blue;
+} */
+
+.vehicles{
+    margin: 10px;
+    padding: 30px;
+
+}
